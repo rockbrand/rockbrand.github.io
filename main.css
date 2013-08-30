@@ -1,8 +1,6 @@
 #container {
     width:500px;
-    /** margin:150px; **/
     margin: 100px 0px 0px 150px;
-    /** padding: 150px 0px 0px 150px; **/
     font-family: "trebuchet ms";
 }
 
@@ -69,4 +67,15 @@
     text-decoration: none;
     vertical-align: top;
     white-space: nowrap;
+}
+
+#contact {
+    font-size: 14px;
+    padding-top: 15px;
+    color: #888888;
+}
+
+#contact a{
+    text-decoration:none;
+    color: #DF6020;
 }
