@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image:url(/images/mark.png);
+    background-image:url(/test/images/mark.png);
     background-repeat: repeat-x;
     position: relative;
     height:100%;
