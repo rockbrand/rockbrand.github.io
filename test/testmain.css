@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image:url(/test/images/mark.png);
+    background-image:url(images/mark.png);
     background-repeat: repeat-x;
     position: relative;
     height:100%;
@@ -21,6 +21,7 @@ body {
     margin-left: 300px;
     color: #c75b12;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
     float: left;
     position: fixed;
 }
@@ -37,9 +38,9 @@ body {
 
 
 #tag {
-    font-family:'Patua-One', serif;
-    font-size: 110%;
-    font-weight: bolder;
+    font-family:'Roboto Slab', serif;
+    font-size: 130%;
+    font-weight: lighter;
 }
 
 #container {
