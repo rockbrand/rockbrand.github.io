@@ -10,13 +10,13 @@ body {
     color: #ffffff;
 }
 
-#logo{
+#logo {
     float: left;
     margin: 270px 0px 0px 40px;
     position: fixed;
 }
 
-#mainnav{
+#mainnav {
     margin-top: 200px;
     margin-left: 300px;
     color: #c75b12;
@@ -24,6 +24,19 @@ body {
     font-weight: bolder;
     float: left;
     position: fixed;
+}
+
+#mainnav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#mainnav a:hover {
+    color: #6c6f70;
+}
+
+#mainnav a:visited {
+    color: #c75b12;
 }
 
 
