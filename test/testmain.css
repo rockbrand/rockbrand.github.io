@@ -1,0 +1,74 @@
+html {
+    height:100%;
+}
+
+body {
+    background-image:url(/images/mark.png);
+    background-repeat: repeat-x;
+    position: relative;
+    height:100%;
+    color: #ffffff;
+}
+
+#logo{
+    float: left;
+    margin: 270px 0px 0px 40px;
+    position: fixed;
+}
+
+#mainnav{
+    margin-top: 200px;
+    margin-left: 300px;
+    color: #c75b12;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    position: fixed;
+}
+
+
+#content {
+    padding: 200px 50px 20px 30px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 110%;
+    line-height: 150%;
+}
+
+
+
+#tag {
+    font-family:'Patua-One', serif;
+    font-size: 110%;
+    font-weight: bolder;
+}
+
+#container {
+    margin: -20px 0px 0px 390px;
+    width: 550px;
+    height: 110%;
+    background-color:#c75b12; 
+}
+
+#footer {
+    clear:both;
+}
+
+
+#contact {
+    font-size: 14px;
+    padding-top: 15px;
+    color: #888888;
+}
+
+#contact a{
+    text-decoration:none;
+    color: #DF6020;
+}
+
+#services {
+    font-family: 'Patua-One', serif;
+    font-size: 120%;
+}
+
+
+
