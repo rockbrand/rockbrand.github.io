@@ -32,7 +32,7 @@ body {
 }
 
 #mainnav a:hover {
-    color: #6c6f70;
+    color: #888888;
 }
 
 #mainnav a:visited {
@@ -41,17 +41,32 @@ body {
 
 
 #content {
-    padding: 200px 50px 20px 30px;
+    padding: 210px 50px 20px 30px;
     font-family: sans-serif;
     font-weight: lighter;
     font-size: 110%;
     line-height: 150%;
 }
 
+#content a {
+    text-decoration: none;
+    /* color: #e0e1dd; */
+    color: #a3dbe8;
+}
 
+#content a {
+    color: #ffffff;
+}
+
+#content a:visited {
+    color: #ecc182;
+}
 
 #tag {
-    font-family:'Roboto Slab', serif;
+    font-family: 'Arvo',serif;
+    font-size: 150%;
+    font-weight: bolder;
+        
 }
 
 #container {
@@ -66,17 +81,6 @@ body {
 }
 
 
-#contact {
-    font-size: 14px;
-    padding-top: 15px;
-    color: #888888;
-}
-
-#contact a{
-    text-decoration:none;
-    color: #DF6020;
-}
-
 #services {
     padding: 90px 30px 0px 40px;
     font-family: sans-serif;
@@ -85,7 +89,7 @@ body {
 }
 
 #services #heading {
-    font-family: 'Patua One', serif;
+    font-family: 'Arvo', serif;
     font-size: 150%;
 }
 
