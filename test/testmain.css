@@ -59,9 +59,9 @@ body {
 }*/
 
 #tag {
-    font-family: 'Rockwell',serif;
-    font-size: 150%;
-    font-weight: bolder;
+    font-family: 'Arvo',serif;
+    font-size: 120%;
+    font-weight: bold;
         
 }
 
@@ -104,5 +104,22 @@ body {
 }
 
 #pages {
-    padding: 50px 20px 10px 40px;
+    padding: 30px 20px 10px 40px;
+}
+
+#pages p {
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 90%;
+    line-height: 150%;
+}
+
+#pages img {
+    border: 5px solid;
+    border-color: #000000 ;
+}
+
+#pages a{
+    text-decoration: none;
+    color: #ecc182;
 }
