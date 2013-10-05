@@ -1,12 +1,13 @@
 html {
-    height:110%;
+    height:100%;
 }
 
 body {
     background-image:url(images/mark.png);
     background-repeat: repeat-x;
+    background-position: absolute;
     position: relative;
-    height:110%;
+    height:100%;
     color: #ffffff;
 }
 
@@ -41,7 +42,7 @@ body {
 
 
 #content {
-    padding: 210px 50px 20px 30px;
+    padding: 210px 50px 0px 30px;
     font-family: sans-serif;
     font-weight: lighter;
     font-size: 110%;
@@ -60,15 +61,13 @@ body {
 
 #tag {
     font-family: 'Arvo',serif;
-    font-size: 120%;
-    font-weight: bold;
-        
+    font-size: 120%;        
 }
 
 #container {
     margin: -10px 0px 0px 390px;
     width: 550px;
-    height: 110%;
+    height: 100%;
     background-color:#c75b12; 
 }
 
@@ -93,8 +92,7 @@ body {
 #works {
     font-family: 'Arvo', serif;
     font-size: 150%;
-    font-weight: bolder;
-    padding:  50px 20px 10px 40px;
+    padding:  50px 20px 0px 40px;
 }
 
 #works img {
@@ -104,7 +102,7 @@ body {
 }
 
 #pages {
-    padding: 30px 20px 10px 40px;
+    padding: 30px 20px 0px 40px;
 }
 
 #pages p {
@@ -116,7 +114,7 @@ body {
 
 #pages img {
     border: 5px solid;
-    border-color: #000000 ;
+    border-color:  #c75b12 #9d5116 #9d5116 #c75b12 ;
 }
 
 #pages a{
