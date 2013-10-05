@@ -36,10 +36,6 @@ body {
     color: #eed182;
 }
 
-/*#mainnav a:visited {
-    color: #c75b12;
-}*/
-
 
 #content {
     padding: 210px 50px 0px 30px;
@@ -55,9 +51,6 @@ body {
     color: #ecc182;
 }
 
-/* #content a:visited {
-    color: #ecc182;
-}*/
 
 #tag {
     font-family: 'Arvo',serif;
@@ -72,7 +65,10 @@ body {
 }
 
 #footer {
-    clear:both;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70%;
+    padding: 280px 0px 0px 40px;
+    color:#ecc182;
 }
 
 
