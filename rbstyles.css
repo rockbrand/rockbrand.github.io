@@ -1,0 +1,137 @@
+section {
+    padding-top: 100px;
+    margin-top: -100px;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.brand {
+    padding: 60px 40px 60px 40px;
+    margin-bottom: 40px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.1428571435;
+    color: inherit;
+    background-color: #e6e7e8;
+}
+
+.row-orange {
+    background-color: #C15B12;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 10px 40px 5px 55px;
+    margin-bottom: 20px;
+    margin-top: -30px;
+}
+
+.row-gray {
+    background-color: #E6E7E8;
+    font-size: 30px;
+    padding: 10px 40px 30px 55px;
+    margin-bottom: 20px;
+}
+
+.well-gray {
+    background-color: #E6E7E8;
+}
+
+.row-padding {
+    padding-bottom: 20px;
+      margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+.testbody {
+    font-family:  'Montserrat', 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+.testtitle {
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+    color: #000000;
+}
+
+
+footer {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 80%;
+    padding: 20px;
+    position:bottom;
+}
+
+/** begin overlay styles for gallery **/
+
+.img-wrap {
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+    width: 250px;
+}
+
+.img-overlay {
+    background-color: #000;
+    bottom: 0;
+    color: #fff;
+    opacity:0;
+    filter: alpha(opacity = 0);
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+
+.img-overlay h4, .img-overlay p{
+    padding: 0 10px;
+}
+
+.img-overlay h4 {
+    font-family: 'Arvo', serif;
+}
+
+.img-wrap:hover .img-overlay {
+    opacity: 0.80;
+    filter: alpha(opacity = 80);
+    transition: opacity 0.25s;
+    -moz-transition: opacity: 0.25s;
+    -webkit-transition: opacity 0.25s;
+}
+
+.main {
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type:none;
+    margin-left: -30px;
+}
+
+
+
+h2 {
+    font-family: 'Arvo', serif;
+    color: #c75b12;
+}
+
+.tag {
+    color: #000000;
+
+}
+.text-left {
+    font-family: 'Montserrat', 'arial', sans-serif;
+    color:#000000;
+    font-size: 15px;
+}
+
+a {
+    color: #c15b12;
+}
+
+a:hover {
+    color: #c15b12;
+}
+
