@@ -47,7 +47,7 @@ body {
 .row-gray {
     background-color: #E6E7E8;
     font-size: 30px;
-    padding: 40px 40px 300px 55px;
+    padding: 40px 40px 530px 55px;
     margin-bottom: 40px;
 }
 
@@ -172,5 +172,7 @@ a:hover {
     -moz-transition: opacity: 0.25s;
     -webkit-transition: opacity 0.25s;
 }
+
+
 
 
